@@ -26,7 +26,7 @@ const About = () => (
         the premier online destination for active traders. Our website offers a wide range of tools and resources to help you stay on top of the markets and make informed trades.
         {' '}
         <span className="font-extrabold text-white">
-          Our key features include trading price alerts that notify you of important market movements, a trading journal to track your progress, 
+          Our key features include trading price alerts that notify you of important market movements, a trading journal to track your progress,
         </span>{' '}
         and an accounting report to help you stay on top of your finances.{' '}
         <span className="font-extrabold text-white">Whether{'   '}</span>
