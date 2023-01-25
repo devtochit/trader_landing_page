@@ -10,19 +10,19 @@ export const exploreWorlds = [
     title: '',
   },
   {
-    id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    id: '',
+    imgUrl: '',
+    title: '',
   },
   {
-    id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    id: '',
+    imgUrl: '',
+    title: '',
   },
   {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    id: '',
+    imgUrl: '',
+    title: '',
   },
 ];
 
