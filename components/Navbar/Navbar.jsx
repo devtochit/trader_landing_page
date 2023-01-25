@@ -7,7 +7,7 @@ import { icons } from '../../assert/icons';
 
 import { Layout } from './Layout';
 
-export const NavbarItem = () => {
+const NavbarItem = () => {
 
   const { isDark } = useTheme();
 
@@ -159,3 +159,5 @@ export const NavbarItem = () => {
     </Layout>
   );
 }
+
+export default NavbarItem;

@@ -1,12 +1,12 @@
 import { Footer, Navbar } from '../components';
-import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World } from '../sections';
+import { About, GetStarted, Hero, WhatsNew, World } from '../sections';
 
 const Home = () => (
   <div className="bg-[#000] overflow-hidden">
     <Navbar />
 
     <div className='mt-2'> 
-    <Hero />
+      <Hero />
     </div>
 
     <div className="relative">
