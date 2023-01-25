@@ -42,7 +42,7 @@ export const newFeatures = [
     imgUrl: '/headset.svg',
     title: 'More realistic',
     subtitle:
-      'In the latest update, your eyes are narrow, making the world more realistic than ever',
+      '',
   },
 ];
 
